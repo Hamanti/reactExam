@@ -1,0 +1,17 @@
+( DOWLOAD )
+1) CREATE FOLDER 
+2) DOWLOAD FILES FROM GITHUB
+3) MOVE DOWLOADED FILES TO THE CREATED FOLDER
+
+
+( LAUNCH )
+1) cd CREATED_FOLER
+2) npm install
+3) npm run dev
+
+( OTHER INSTALL ) 
+( ! CREATE ANOTHER TERMINAL ! )
+1) npm i react-router-dom
+2) npm install swiper
+3) npm install react-modal
+
